@@ -84,15 +84,15 @@ git clone https://github.com/YOUR_USERNAME/shopping_app_flutter.git
 
 Install packages:
 
-
+```sh
 flutter pub get
-
+```
 
 Run the app:
 
-
+```sh
 flutter run
----
+```
 ----------------------------------------------------------------------------------------------------------------------
 
 **📄 About**
