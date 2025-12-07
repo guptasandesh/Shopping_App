@@ -75,13 +75,13 @@ Developed as part of my learning journey, applying concepts from layouts to stat
 </p>
 
 <p align="center">
-  <img src="images/Screenshot 2025-12-07 175528.png" width="250" />
+  <img src="images/Screenshot 2025-12-07 175612.png" width="250" />
   <img src="images/Screenshot 2025-12-07 175554.png" width="250" />
   <img src="images/Screenshot 2025-12-07 175600.png" width="250" />
 </p>
 
 <p align="center">
-  <img src="images/Screenshot 2025-12-07 175612.png" width="250" />
+  <img src="images/Screenshot 2025-12-07 175528.png" width="250" />
 </p>
 
 -------------------------------------------------------------------------------------------------------------------
