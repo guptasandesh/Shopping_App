@@ -12,14 +12,17 @@ Developed as part of my learning journey, applying concepts from layouts to stat
 Displaying product image, name, price, and category chips.
 
 
+
 **Product Details Screen**
 
 Clean UI with large product image, price, description layout, and spacing using Column, Row, Spacer, and Expanded.
 
 
+
 **Dynamic Size Selection**
 
 Interactive size chips with active selection highlight.
+
 
 
 **Add to Cart Functionality**
@@ -31,9 +34,11 @@ Shows snackbar confirmation
 Prevents adding items when no size is selected
 
 
+
 **Cart Page**
 
 Displays items with selected size and price.
+
 
 
 **Delete Item with Confirmation Dialog**
@@ -41,9 +46,11 @@ Displays items with selected size and price.
 Prevents accidental removal using AlertDialog.
 
 
+
 **Bottom Navigation Bar**
 
 Smooth switching between Home and Cart tabs using IndexedStack.
+
 
 
 **Reusable Widgets + Organized File Structure**
@@ -51,6 +58,7 @@ Smooth switching between Home and Cart tabs using IndexedStack.
 Following best practices from the Flutter course.
 
 ----------------------------------------------------------------------------------------------------------------------------
+
 **🛠️ Flutter Concepts Used**
 
 
