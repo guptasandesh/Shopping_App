@@ -59,63 +59,37 @@ Following best practices from the Flutter course.
 
 ----------------------------------------------------------------------------------------------------------------------------
 
-**🛠️ Flutter Concepts Used**
+## 🛠️ Flutter Concepts Used
 
+### 🎨 UI & Layout
+- Row, Column, Flex, Spacer, Expanded  
+- ClipRRect, Card, Image.asset  
+- Padding vs Margin  
+- SafeArea  
+- SingleChildScrollView  
+- TextStyle, Colors, MaterialApp  
 
-**UI & Layout:**
+### ⚙️ Intermediate Concepts
+- InheritedWidget (theming theory)  
+- LayoutBuilder & MediaQuery for responsive design  
+- Widget extraction  
+- BuildContext understanding  
+- Lifecycle methods (initState, dispose)  
 
-Row, Column, Flex, Spacer, Expanded
+### 🔄 State & Async
+- Provider state management  
+- Future, async/await (from Weather App learning)  
+- Snackbars & error handling  
 
-ClipRRect, Card, Image.asset
+### 🧭 Navigation
+- Navigator under the hood  
+- Passing arguments  
+- Routing structure  
 
-Padding vs Margin
-
-SafeArea
-
-SingleChildScrollView
-
-TextStyle, Colors, MaterialApp
-
-
-**Intermediate Concepts:**
-
-InheritedWidget (theming theory)
-
-LayoutBuilder & MediaQuery for responsive design
-
-Widget extraction
-
-BuildContext understanding
-
-Lifecycle methods (initState, dispose)
-
-
-**State & Async:**
-
-Provider state management
-
-Future, async/await (used in Weather App learning)
-
-Snackbars & error handling
-
-
-**Navigation:**
-
-Navigator behind the scenes
-
-Passing arguments
-
-Routing structure
-
-
-**App Architecture:**
-
-Dummy data models
-
-Reusable components
-
-Clear file structure
-
+### 🏗️ App Architecture
+- Dummy data models  
+- Reusable components  
+- Clear file structure  
 --------------------------------------------------------------------------------------------------------------------
 
 📸 **Screenshots**
