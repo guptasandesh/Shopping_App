@@ -4,59 +4,33 @@ Developed as part of my learning journey, applying concepts from layouts to stat
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-## 🚀 **Features:**
+## 🚀 Features
 
+### 🏠 Home Screen with Product Catalog
+- Displaying product image, name, price, and category chips.
 
-### **Home Screen with Product Catalog:**
+### 📄 Product Details Screen
+- Clean UI with large product image, price, and proper spacing using Column, Row, Spacer, and Expanded.
 
-Displaying product image, name, price, and category chips.
+### 🎚️ Dynamic Size Selection
+- Interactive size chips with active selection highlight.
 
+### 🛒 Add to Cart Functionality
+- Adds item with selected size  
+- Shows snackbar confirmation  
+- Prevents adding items when no size is selected  
 
+### 🧺 Cart Page
+- Displays items with selected size and price.
 
-### **Product Details Screen:**
+### ❌ Delete Item with Confirmation Dialog
+- Prevents accidental removal using AlertDialog.
 
-Clean UI with large product image, price, description layout, and spacing using Column, Row, Spacer, and Expanded.
+### 🔽 Bottom Navigation Bar
+- Smooth switching between Home and Cart tabs using IndexedStack.
 
-
-
-### **Dynamic Size Selection:**
-
-Interactive size chips with active selection highlight.
-
-
-
-### **Add to Cart Functionality:**
-
-Adds item with selected size
-
-Shows snackbar confirmation
-
-Prevents adding items when no size is selected
-
-
-
-### **Cart Page:**
-
-Displays items with selected size and price.
-
-
-
-### **Delete Item with Confirmation Dialog:**
-
-Prevents accidental removal using AlertDialog.
-
-
-
-### **Bottom Navigation Bar:**
-
-Smooth switching between Home and Cart tabs using IndexedStack.
-
-
-
-### **Reusable Widgets + Organized File Structure:**
-
-Following best practices from the Flutter course.
-
+### 🧩 Reusable Widgets + Organized File Structure
+- Following best practices from the Flutter course.
 ----------------------------------------------------------------------------------------------------------------------------
 
 ## 🛠️ Flutter Concepts Used
