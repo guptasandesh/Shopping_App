@@ -66,12 +66,23 @@ Developed as part of my learning journey, applying concepts from layouts to stat
 - Clear file structure  
 --------------------------------------------------------------------------------------------------------------------
 
-📸 **Screenshots**
+## 📸 Screenshots
 
+<p align="center">
+  <img src="images/Screenshot 2025-12-07 175432 - Copy.png" width="250" />
+  <img src="images/Screenshot 2025-12-07 175510.png" width="250" />
+  <img src="images/Screenshot 2025-12-07 175521.png" width="250" />
+</p>
 
-![Home Page](images/home.png)
-![Product Details](images/product_details.png)
-![Cart Page](images/cart.png)
+<p align="center">
+  <img src="images/Screenshot 2025-12-07 175528.png" width="250" />
+  <img src="images/Screenshot 2025-12-07 175554.png" width="250" />
+  <img src="images/Screenshot 2025-12-07 175600.png" width="250" />
+</p>
+
+<p align="center">
+  <img src="images/Screenshot 2025-12-07 175612.png" width="250" />
+</p>
 
 -------------------------------------------------------------------------------------------------------------------
 
