@@ -75,25 +75,24 @@ Developed as part of my learning journey, applying concepts from layouts to stat
 
 -------------------------------------------------------------------------------------------------------------------
 
-📦 **Getting Started**
+## 📦 Getting Started
 
-
-**Clone the repo:**
-
-
+### Clone the repo:
+```sh
 git clone https://github.com/YOUR_USERNAME/shopping_app_flutter.git
+```
 
-
-**Install packages:**
+Install packages:
 
 
 flutter pub get
 
 
-**Run the app:**
+Run the app:
+
 
 flutter run
-
+---
 ----------------------------------------------------------------------------------------------------------------------
 
 **📄 About**
