@@ -82,20 +82,20 @@ Developed as part of my learning journey, applying concepts from layouts to stat
 git clone https://github.com/YOUR_USERNAME/shopping_app_flutter.git
 ```
 
-Install packages:
+###Install packages:
 
 ```sh
 flutter pub get
 ```
 
-Run the app:
+###Run the app:
 
 ```sh
 flutter run
 ```
 ----------------------------------------------------------------------------------------------------------------------
 
-**📄 About**
+## **📄 About**
 
 
 A Flutter shopping app demonstrating real UI design, navigation, dialogs, size selection, cart logic, and state management.
